@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Sarah 🍊
 
-<!--
-**shehmm/shehmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
 
-Here are some ideas to get you started:
+I'm a Senior at the University of Rochester based in NYC. I have a passion for Machine Learning, and I'm always eager to learn and grow in the field of Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages:** C, Python, JavaScript, Java, Swift
+- **Frameworks:** React, Node.js
+- **Tools:** Git
+- **Databases:** MySQL, MongoDB
+
+## 🌱 Currently Learning
+
+- [New technology or skill you're learning]
+- [Any courses or certifications you're pursuing]
+
+## 💼 Projects
+
+Here are some of my notable projects:
+
+
+## 📫 Get in Touch
+
+- **Email:** sarahmammen03@gmail.com (mailto:sarahmammen03@gmail.com)
+- **LinkedIn:** Sarah Mammen ((https://www.linkedin.com/in/sarah-mammen-0342b3253/))
+
+Feel free to reach out if you want to connect or collaborate!
+
+Thank you for visiting my GitHub profile! 🌟
