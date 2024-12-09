@@ -20,6 +20,9 @@ I'm a Senior at the University of Rochester based in NYC. I have a passion for M
 
 Here are some of my notable projects:
 
+Legal Duel Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for Legal Duel for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! (https://github.com/sachi-jh/BBT_LegalDuel_1C)
+
+
 
 ## 📫 Get in Touch
 
