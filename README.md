@@ -13,8 +13,8 @@ I'm a Senior at the University of Rochester based in NYC. I have a passion for M
 
 ## 🌱 Currently Learning
 
-- [New technology or skill you're learning]
-- [Any courses or certifications you're pursuing]
+- Keras, TensorFlow, Making Generative AI models using BERT
+- Pursuing CompTIA Security + Certification 
 
 ## 💼 Projects
 
